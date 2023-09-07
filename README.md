@@ -1,10 +1,9 @@
 
 
-#### **Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, please subscribe to the once-weekly newsletter!**
+#### **Sanjeev Tech
 
 ###  https://sanjeevtech.com/
 
-_Never more than one email per week. Easy to unsubscribe. Your information will **never** be shared._
 
 ---
 
@@ -33,24 +32,6 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
 
 ---
 
-### Start Here
-The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on JavaScript, React, and Node.js. There is also a wealth of information on interview prep and applying to jobs.
-
-More free resources can be found on [codeburst.io](https://codeburst.io)
-
----
-
-* Take a look at the big picture: 
-  * [2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
-  * YouTube video outlining what to learn (similar to above, but in video format) - [Watch this if you want to become a web developer](https://www.youtube.com/watch?v=sBzRwzY7G-k)
-* Learn about the common tools associated with full stack web development - [What is the A-Z of Web Development?](https://www.quora.com/What-is-the-A-Z-of-web-development-and-web-design)
-* [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.vk5vkb18q) (Medium)
-* What happens when you type google into your address bar? 
-  * [Reddit Link](https://www.reddit.com/r/cscareerquestions/comments/55ydbs/common_interview_question_what_happens_when_you/)
-  * [Tuts Plus - The http protocol every web developer must know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
-* Find a local Web Development related [Meetup!](https://www.meetup.com/) Don't worry, it's not as scary as you might think, and is one of the best ways to start learning
-
----
 ### How to Learn
 * How to Learn.
   * Coursera Course (Not CS Specific) - [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
